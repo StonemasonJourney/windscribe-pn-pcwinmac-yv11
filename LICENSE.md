@@ -1,4 +1,4 @@
-# 
+# 更新 Windscribe VPN 脚本 Mac OS版 | 官方 Windscribe VPN 脚本 PC Windows版。集成 网页保护 和 恶意软件检测，跨平台性能最大化。
 
 
 
